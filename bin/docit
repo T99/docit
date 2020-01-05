@@ -1,0 +1,11 @@
+#!/usr/bin/env python
+
+#
+#   Created by Trevor Sears <trevorsears.main@gmail.com>.
+#   6:05 PM -- October 07th, 2019.
+#   Project: docit
+#   
+
+from docit.main import run
+
+run()

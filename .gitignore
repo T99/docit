@@ -1,0 +1,10 @@
+# IDEA
+.idea/
+
+# Python
+*.egg-info/
+venv
+
+# MyPy
+mypy.ini
+.mypy_cache/
